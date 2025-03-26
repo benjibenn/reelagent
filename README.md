@@ -1,16 +1,16 @@
-# Viral AI UGC Setup Documentation
+# ReelAgent Setup Documentation
 
 GitHub link: https://github.com/rish9600/viralaiugc
 
 Assets link: https://drive.google.com/drive/folders/1UsaV1nXoU672Ung-IEzENOaUMyW4wRR3?usp=drive_link
 
-Viral AI UGC is an AI UGC content tool for TikTok. Frontend and DB are completely vibe-coded with Lovable.
+ReelAgent is an AI UGC content tool for TikTok. Frontend and DB are completely vibe-coded with Lovable.
  The tech stack includes Vite (React) for the frontend, Supabase for the database, Vercel for hosting, and a Node.js server that runs locally to render videos at no cost. You can use everything on the free tier of each service. T
 he entire project was built in just 48 hours spread across one week. Feel free to use it, and don't hesitate to [reach out](https://x.com/rushabtated4) if you encounter any issues.
 
 ## Overview
 
-This documentation provides step-by-step instructions for self-hosting the Viral AI UGC platform. The setup process consists of four main components:
+This documentation provides step-by-step instructions for self-hosting the ReelAgent platform. The setup process consists of four main components:
 
 1. Supabase (Database)
 2. Vercel (Frontend)

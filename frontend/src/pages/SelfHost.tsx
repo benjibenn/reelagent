@@ -78,7 +78,7 @@ const SelfHost = () => {
           <div className="container">
             <div className="flex flex-col items-center text-center space-y-4 max-w-3xl mx-auto">
               <h1 className="text-4xl font-bold tracking-tighter sm:text-5xl md:text-6xl lg:text-7xl">
-                Host Viral AI UGC on Your Infrastructure
+                Host ReelAgent on Your Infrastructure
               </h1>
               <p className="mx-auto max-w-[700px] text-lg text-muted-foreground md:text-xl">
                 Take full control of your content generation with our self-hosted solution. Perfect for businesses that need complete data sovereignty.

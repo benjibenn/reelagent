@@ -1,4 +1,4 @@
-# Viral AI UGC Frontend
+# ReelAgent Frontend
 
 A modern web application for generating and managing UGC (User Generated Content) using AI. Built with React, TypeScript, and Vite.
 

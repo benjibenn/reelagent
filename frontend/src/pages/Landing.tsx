@@ -41,7 +41,7 @@ const Landing = () => {
       {/* Hero Section */}
       <header className="py-6 px-4 sm:px-6 lg:px-8 border-b">
         <div className="container mx-auto flex justify-between items-center">
-          <h1 className="text-2xl font-bold text-primary">Viral AI UGC</h1>
+          <h1 className="text-2xl font-bold text-primary">ReelAgent</h1>
           <Button 
             onClick={handleGoogleLogin} 
             disabled={isLoading}
@@ -211,7 +211,7 @@ const Landing = () => {
       {/* Footer */}
       <footer className="py-8 px-4 sm:px-6 lg:px-8 border-t">
         <div className="container mx-auto text-center text-muted-foreground">
-          <p>&copy; {new Date().getFullYear()} Viral AI UGC. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} ReelAgent. All rights reserved.</p>
         </div>
       </footer>
     </div>

@@ -11,7 +11,7 @@ const MainNav = () => {
           <div className="flex justify-center items-center w-8 h-8 bg-black text-white rounded">
             <Film size={16} />
           </div>
-          <span className="text-lg font-semibold">Viral AI UGC</span>
+          <span className="text-lg font-semibold">ReelAgent</span>
         </Link>
         
         <div className="hidden md:flex items-center gap-6">
