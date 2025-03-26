@@ -40,7 +40,7 @@ const AuthDialog = ({ isOpen, onClose }: AuthDialogProps) => {
         <DialogHeader>
           <DialogTitle className="text-xl">Create an account to continue</DialogTitle>
           <DialogDescription>
-            Sign up or log in to access all features of ViralGen.
+            Sign up or log in to access all features of ReelAgent.
           </DialogDescription>
         </DialogHeader>
         <div className="grid gap-4 py-4">

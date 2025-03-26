@@ -1,7 +1,7 @@
 
 # Self-Hosting Guide
 
-This guide provides detailed instructions for self-hosting the ViralGen application, including both the frontend and backend components.
+This guide provides detailed instructions for self-hosting the ReelAgent application, including both the frontend and backend components.
 
 ## Architecture Overview
 
