@@ -10,7 +10,7 @@ import Landing from "./pages/Landing";
 import NotFound from "./pages/NotFound";
 import Dashboard from "./pages/Dashboard";
 import SelfHost from "./pages/SelfHost";
-import SelfHostBanner from "./components/SelfHostBanner";
+// import SelfHostBanner from "./components/SelfHostBanner";
 import { MobileWarningModal } from "./components/MobileWarningModal";
 
 // Create a client with optimized settings
@@ -44,7 +44,7 @@ const App = () => {
     <QueryClientProvider client={queryClient}>
       <AuthProvider>
         <TooltipProvider>
-          <SelfHostBanner />
+          {/* <SelfHostBanner /> */}
           <BrowserRouter>
             <Routes>
               <Route path="/landing" element={<Landing />} />
