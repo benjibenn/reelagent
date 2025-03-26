@@ -97,7 +97,7 @@ const Navbar = () => {
       </nav>
       
       <div className="border-t border-border p-4 space-y-1">
-        <NavItem icon={<HelpCircle size={18} />} label="Support" onClick={() => window.open("https://x.com/rushabtated4", "_blank", "noopener,noreferrer")} />
+        {/* <NavItem icon={<HelpCircle size={18} />} label="Support" onClick={() => window.open("https://x.com/rushabtated4", "_blank", "noopener,noreferrer")} /> */}
         
         <Popover>
           <PopoverTrigger asChild>
@@ -135,7 +135,7 @@ const Navbar = () => {
             </div>
           </PopoverContent>
         </Popover>
-        <NavItem icon={<ExternalLink size={18} />} label="Self Host" to="/self-host" onClick={() => window.open("/self-host", "_blank", "noopener,noreferrer")} />
+        {/* <NavItem icon={<ExternalLink size={18} />} label="Self Host" to="/self-host" onClick={() => window.open("/self-host", "_blank", "noopener,noreferrer")} /> */}
       </div>
       
       <div className="p-4 border-t border-border">
