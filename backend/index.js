@@ -94,7 +94,6 @@ async function setupRealTimeSubscription() {
       },
       (payload) => {
         console.log("New video generation request received:", payload.new.id);
-        // Add to queue instead of processing immediately
         renderQueue
           .add(payload.new.id, payload.new)
           .catch((error) =>
